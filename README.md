@@ -12,9 +12,7 @@ l'utilisation des outils modernes pour
 le *frontend* et le *backend*.
 
 Mes compétences 💪
-<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge">
-</a>
+
 
 
 Projets récents 🚀
