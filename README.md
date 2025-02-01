@@ -1,6 +1,6 @@
 
 ```markdown
-Salut, je suis *Edshy* 👨‍💻
+Salut, je suis #Edshy 👨‍💻
 
 Bienvenue sur mon profil GitHub ! 💻🎉 
  
@@ -11,13 +11,13 @@ Actuellement, je me concentre sur
 l'utilisation des outils modernes pour 
 le *frontend* et le *backend*.
 
-Mes compétences 💪
+##Mes compétences 💪
 
 
 
-Projets récents 🚀
+##Projets récents 🚀
 
-Contact 📬
+##Contact 📬
 
 - 📧 *Email* : edshydev@gmail.com
   
