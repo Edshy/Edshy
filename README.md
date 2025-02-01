@@ -23,6 +23,7 @@ Contact 📬
 
 - 📧 *Email* : edshydev@gmail.com
   
-> "Coder, c'est transformer des idées en réalité." 🚀
+"Coder, c'est transformer des idées 
+en réalité." 🚀
 
 ---
