@@ -1,4 +1,4 @@
-Salut, je suis #Edshy 👨🏼‍💻
+Salut, je suis # Edshy 👨🏼‍💻
 
 Bienvenue sur mon profil GitHub! 💻🎉
 
