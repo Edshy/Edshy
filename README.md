@@ -21,6 +21,8 @@ pour le *frontend* et le *backend*.
 
 ## Projets récents 🚀
 
+https://github.com/ezenardr/sogebank
+
 ## Contact 📬
 
 - 📧 *Email* : edshydev@gmail.com
