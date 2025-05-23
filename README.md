@@ -26,7 +26,7 @@ https://github.com/ezenardr/sogebank
 
 ## Contact 📬
 
-- 📧 *Email* : edshydev@gmail.com
+- 📧 *Email* : jeanbaptisteedshy@gmail.com
 
 "Coder, c'est transformer des idées en réalité." 
 
